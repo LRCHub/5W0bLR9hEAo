@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "inaho",
+  "base_artist": "唾奇",
+  "createdAt": "2025-12-22T10:09:57.972980Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Inaho (feat. Nishina)",
+      "artist": "Tsubaki",
+      "has_synced": false,
+      "path": "select/01_Inaho_(feat._Nishina)_Tsubaki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Inaho (feat. にしな)",
+      "artist": "唾奇",
+      "has_synced": false,
+      "path": "select/pl_01_Inaho_(feat._にしな)_唾奇.txt"
+    }
+  ]
+}
